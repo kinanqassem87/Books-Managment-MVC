@@ -1,0 +1,22 @@
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Books Managment.dll.config
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Books Managment.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Books Managment.pdb
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Helpers.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Mvc.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Razor.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.Deployment.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.Razor.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Razor.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.Deployment.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Webpages.Razor.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Helpers.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\bin\System.Web.Mvc.xml
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\obj\Debug\Books Managment.csprojResolveAssemblyReference.cache
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\obj\Debug\Books Managment.csproj.CoreCompileInputs.cache
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\obj\Debug\Books Managment.dll
+D:\New folder\Code\C# Asp MVC\Books Managment\Books Managment\obj\Debug\Books Managment.pdb
